@@ -1,7 +1,7 @@
 # EduTrack — Student Workspace
 
 A responsive student dashboard for tracking class attendance, organizing coursework and building focused study habits. Built with **HTML, CSS and vanilla JavaScript** — no framework, package manager or build step required.
-
+link: https://edutrakk.netlify.app/
 ## Features
 
 - **Dashboard:** attendance snapshot, task progress, upcoming tasks and study streak.
